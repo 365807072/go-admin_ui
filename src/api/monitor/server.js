@@ -7,3 +7,9 @@ export function getServer() {
     method: 'get'
   })
 }
+export function getDomain() {
+  return request({
+    url: '/api/v1/monitor/domain',
+    method: 'get'
+  })
+}
