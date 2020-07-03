@@ -1,4 +1,4 @@
-# go-admin-web
+# go-admin-ui
 
 ## 简介
 
