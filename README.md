@@ -36,7 +36,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/wenjianzhang/go-admin-ui.git
+git clone git@github.com:365807072/go-admin-ui.git
 
 # 进入项目目录
 cd go-admin-ui
