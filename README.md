@@ -88,15 +88,3 @@ npm run lint
 # 代码格式检查并自动修复
 npm run lint -- --fix
 ```
-
-
-## 在线预览
-
-[在线 Demo](http://www.zhangwj.com/#/login)
-
-
-## License
-
-[MIT](https://github.com/wenjianzhang/go-admin-ui/blob/master/LICENSE)
-
-Copyright (c) 2020 wenjianzhang
